@@ -42,7 +42,4 @@ _Rival : Blanco_
 _1ra Sala : Rival_
 _2da Sala : Demons_
 _3ra Sala : Perdedor De 1ra_
-
-
-*By : ancelzzz*
 `;

@@ -32,50 +32,53 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = `⫷♻♻♻♻♻♻♻ ⚡ ♻♻♻♻♻♻♻♻⪢
-🚀 Creador : 𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓
-🚀 Wa.me/595984303784
-🚀 Ventas : https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT
-⫷♻♻♻♻♻♻♻ 💘 ♻♻♻♻♻♻♻♻⪢
+    const str = `┎━━━━━━━ ∙ʚ🤴🏻ɞ∙ ━━━━━━━┒
+┃⭐ Creador : ��� ���
+┃📞 Wa.me/528130533518
+┃https://www.instagram.com/idk_a_normal_user
+┖━━━━━━━ ∙ʚ⚜️ɞ∙ ━━━━━━━┚
 
 
 
  ╭━〔 ⚙️ 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐎 𝐃𝐄𝐒𝐀𝐂𝐓𝐈𝐕𝐀𝐑 ⚙️ 〕
- *┃⏺️ 🟢 ${usedPrefix}enable*
- *┃⏺️ 🔴 ${usedPrefix}disable*
+ *┃➤ 🟢 ${usedPrefix}enable*
+ *┃➤ 🔴 ${usedPrefix}disable*
   ╰━━━━━━━━━━━━
 
  ╭━〔 ❄️ 𝐆𝐑𝐔𝐏𝐎𝐒 ❄️〕
- *┃⏺️  ${usedPrefix}menuff*
- *┃⏺️  ${usedPrefix}comandosff*
- *┃⏺️  ${usedPrefix}kick*
- *┃⏺️  ${usedPrefix}grupo*
- *┃⏺️  ${usedPrefix}promote*
- *┃⏺️  ${usedPrefix}demote*
- *┃⏺️  ${usedPrefix}demote*
- *┃⏺️  ${usedPrefix}link*
- *┃⏺️  ${usedPrefix}invocar*
- *┃⏺️  ${usedPrefix}setwelcome*
- *┃⏺️  ${usedPrefix}setbye*
- *┃⏺️  ${usedPrefix}hidetag*
- *┃⏺️  ${usedPrefix}fantasmas*
- *┃⏺️  ${usedPrefix}kickfantasmas*
+ *┃➤  ${usedPrefix}menuff*
+ *┃➤  ${usedPrefix}comandosff*
+ *┃➤  ${usedPrefix}kick*
+ *┃➤  ${usedPrefix}grupo*
+ *┃➤  ${usedPrefix}promote*
+ *┃➤  ${usedPrefix}demote*
+ *┃➤  ${usedPrefix}demote*
+ *┃➤  ${usedPrefix}link*
+ *┃➤  ${usedPrefix}invocar*
+ *┃➤  ${usedPrefix}setwelcome*
+ *┃➤  ${usedPrefix}setbye*
+ *┃➤  ${usedPrefix}hidetag*
+ *┃➤  ${usedPrefix}fantasmas*
+ *┃➤  ${usedPrefix}kickfantasmas*
   ╰━━━━━━━━━━━━
 
  ╭━〔 ⚠️ *FREE FIRE* ⚠️ 〕
- *┃⏺️ 🗺️ ${usedPrefix}menuff*
- *┃⏺️ 🗺️ ${usedPrefix}bermuda*
- *┃⏺️ 🗺️ ${usedPrefix}kalahari*
- *┃⏺️ 🗺️ ${usedPrefix}alpes*
- *┃⏺️ 🗺️ ${usedPrefix}purgatorio*
- *┃⏺️ 🗺️ ${usedPrefix}nexterra*
- *┃⏺️ 📋 ${usedPrefix}agendasemanal*
+ *┃➤ 🗺️ ${usedPrefix}menuff*
+ *┃➤ 🗺️ ${usedPrefix}bermuda*
+ *┃➤ 🗺️ ${usedPrefix}kalahari*
+ *┃➤ 🗺️ ${usedPrefix}alpes*
+ *┃➤ 🗺️ ${usedPrefix}purgatorio*
+ *┃➤ 🗺️ ${usedPrefix}nexterra*
+ *┃➤ 📋 ${usedPrefix}agendasemanal*
   ╰━━━━━━━━━━━━
 
   ╭━〔 ⚔️ *BUSCAR VS PLANTILLAS* 🔱 〕
- *┃⏺️ ⚔️ ${usedPrefix}bsmsac*
- *┃⏺️ ✨ ${usedPrefix}bsfem*
- *┃⏺️ 👁️‍🗨️ ${usedPrefix}bsmixto*
+ *┃➤ 🌀 ${usedPrefix}buscarvsmasc*
+ *┃➤ ⚔️ ${usedPrefix}bsmsac*
+ *┃➤ ⚓ ${usedPrefix}buscarvsfem*
+ *┃➤ ✨ ${usedPrefix}bsfem*
+ *┃➤ 📍 ${usedPrefix}buscarvsmixto*
+ *┃➤ 👁️‍🗨️ ${usedPrefix}bsmixto*
   ╰━━━━━━━━━━━━
 
  *╔══ ≪ REGLAS , LISTA , FICHA ≫ ══╗*
@@ -113,13 +116,13 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
  *╚══ ≪ •❈• ≫ ══╝*
 
  ╭━〔 🧿 𝐆𝐄𝐍𝐄𝐑𝐀 𝐏𝐋𝐀𝐓𝐀𝐅𝐎𝐑𝐌𝐀𝐒 🧿 〕
- *┃⏺️ 💴 ${usedPrefix}plataformas*
- *┃⏺️ 💳 ${usedPrefix}drops*
- *┃⏺️ 💳 ${usedPrefix}streaming*
- *┃⏺️ 💳 ${usedPrefix}cccompras*
- *┃⏺️ 💰 ${usedPrefix}cursovip*
- *┃⏺️ 💰 ${usedPrefix}cc2*
- *┃⏺️ 💸 ${usedPrefix}cursoplataformas*
+ *┃➤ 💴 ${usedPrefix}plataformas*
+ *┃➤ 💳 ${usedPrefix}drops*
+ *┃➤ 💳 ${usedPrefix}streaming*
+ *┃➤ 💳 ${usedPrefix}cccompras*
+ *┃➤ 💰 ${usedPrefix}cursovip*
+ *┃➤ 💰 ${usedPrefix}cc2*
+ *┃➤ 💸 ${usedPrefix}cursoplataformas*
   ╰━━━━━━━━━━━
 
  *╔══ ≪ STICKERS X FILTROS ≫ ══╗*
@@ -145,144 +148,144 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 
 
  ╭━〔 🎮 𝐉𝐔𝐄𝐆𝐎𝐒 🎮 〕
-*┃⏺️ 🕹️ ${usedPrefix}mates*
-*┃⏺️ 🕹️ ${usedPrefix}ppt*
-*┃⏺️ 🕹️ ${usedPrefix}prostituto <@tag>*
-*┃⏺️ 🕹️ ${usedPrefix}prostituta <@tag>*
-*┃⏺️ 🕹️ ${usedPrefix}gay2 <@tag>*
-*┃⏺️ 🕹️ ${usedPrefix}lesbiana <@tag>*
-*┃⏺️ 🕹️ ${usedPrefix}pajero <@tag>*
-*┃⏺️ 🕹️ ${usedPrefix}pajera <@tag>*
-*┃⏺️ 🕹️ ${usedPrefix}puto <@tag>*
-*┃⏺️ 🕹️ ${usedPrefix}puta <@tag>*
-*┃⏺️ 🕹️ ${usedPrefix}manco <@tag>*
-*┃⏺️ 🕹️ ${usedPrefix}manca <@tag>*
-*┃⏺️ 🕹️ ${usedPrefix}rata <@tag>*
-*┃⏺️ 🕹️ ${usedPrefix}negro <@tag>*
-*┃⏺️ 🕹️ ${usedPrefix}negra <@tag>*
-*┃⏺️ 🕹️ ${usedPrefix}fea <@tag>*
-*┃⏺️ 🕹️ ${usedPrefix}feo <@tag>*
-*┃⏺️ 🕹️ ${usedPrefix}sinpoto <@tag>*
-*┃⏺️ 🕹️ ${usedPrefix}sintetas <@tag>*
-*┃⏺️ 🕹️ ${usedPrefix}sinpito <@tag>*
-*┃⏺️ 🕹️ ${usedPrefix}adoptada <@tag>*
-*┃⏺️ 🕹️ ${usedPrefix}adoptado <@tag>*
-*┃⏺️ 🕹️ ${usedPrefix}love*
-*┃⏺️ 🕹️ ${usedPrefix}los10*
-*┃⏺️ 🕹️ ${usedPrefix}suitpvp*
-*┃⏺️ 🕹️ ${usedPrefix}slot*
-*┃⏺️ 🕹️ ${usedPrefix}simisimi*
-*┃⏺️ 🕹️ ${usedPrefix}pregunta*
-*┃⏺️ 🕹️ ${usedPrefix}cuando*
-*┃⏺️ 🕹️ ${usedPrefix}ship5*
-*┃⏺️ 🕹️ ${usedPrefix}abrazo*
-*┃⏺️ 🕹️ ${usedPrefix}ship2*
-*┃⏺️ 🕹️ ${usedPrefix}formarpareja*
-*┃⏺️ 🕹️ ${usedPrefix}verdad*
-*┃⏺️ 🕹️ ${usedPrefix}reto*
-*┃⏺️ 🕹️ ${usedPrefix}cancion*
-*┃⏺️ 🕹️ ${usedPrefix}pista*
-*┃⏺️ 🕹️ ${usedPrefix}ruleta*
-*┃⏺️ 🕹️ ${usedPrefix}zodiac*
-*┃⏺️ 🕹️ ${usedPrefix}odio*
-*┃⏺️ 🕹️ ${usedPrefix}ship*
-*┃⏺️ 🕹️ ${usedPrefix}sorteo*
-*┃⏺️ 🕹️ ${usedPrefix}minovia*
-*┃⏺️ 🕹️ ${usedPrefix}minovio*
-*┃⏺️ 🕹️ ${usedPrefix}kchero*
-*┃⏺️ 🕹️ ${usedPrefix}kchero*
+*┃➤ 🕹️ ${usedPrefix}mates*
+*┃➤ 🕹️ ${usedPrefix}ppt*
+*┃➤ 🕹️ ${usedPrefix}prostituto <@tag>*
+*┃➤ 🕹️ ${usedPrefix}prostituta <@tag>*
+*┃➤ 🕹️ ${usedPrefix}gay2 <@tag>*
+*┃➤ 🕹️ ${usedPrefix}lesbiana <@tag>*
+*┃➤ 🕹️ ${usedPrefix}pajero <@tag>*
+*┃➤ 🕹️ ${usedPrefix}pajera <@tag>*
+*┃➤ 🕹️ ${usedPrefix}puto <@tag>*
+*┃➤ 🕹️ ${usedPrefix}puta <@tag>*
+*┃➤ 🕹️ ${usedPrefix}manco <@tag>*
+*┃➤ 🕹️ ${usedPrefix}manca <@tag>*
+*┃➤ 🕹️ ${usedPrefix}rata <@tag>*
+*┃➤ 🕹️ ${usedPrefix}negro <@tag>*
+*┃➤ 🕹️ ${usedPrefix}negra <@tag>*
+*┃➤ 🕹️ ${usedPrefix}fea <@tag>*
+*┃➤ 🕹️ ${usedPrefix}feo <@tag>*
+*┃➤ 🕹️ ${usedPrefix}sinpoto <@tag>*
+*┃➤ 🕹️ ${usedPrefix}sintetas <@tag>*
+*┃➤ 🕹️ ${usedPrefix}sinpito <@tag>*
+*┃➤ 🕹️ ${usedPrefix}adoptada <@tag>*
+*┃➤ 🕹️ ${usedPrefix}adoptado <@tag>*
+*┃➤ 🕹️ ${usedPrefix}love*
+*┃➤ 🕹️ ${usedPrefix}los10*
+*┃➤ 🕹️ ${usedPrefix}suitpvp*
+*┃➤ 🕹️ ${usedPrefix}slot*
+*┃➤ 🕹️ ${usedPrefix}simisimi*
+*┃➤ 🕹️ ${usedPrefix}pregunta*
+*┃➤ 🕹️ ${usedPrefix}cuando*
+*┃➤ 🕹️ ${usedPrefix}ship5*
+*┃➤ 🕹️ ${usedPrefix}abrazo*
+*┃➤ 🕹️ ${usedPrefix}ship2*
+*┃➤ 🕹️ ${usedPrefix}formarpareja*
+*┃➤ 🕹️ ${usedPrefix}verdad*
+*┃➤ 🕹️ ${usedPrefix}reto*
+*┃➤ 🕹️ ${usedPrefix}cancion*
+*┃➤ 🕹️ ${usedPrefix}pista*
+*┃➤ 🕹️ ${usedPrefix}ruleta*
+*┃➤ 🕹️ ${usedPrefix}zodiac*
+*┃➤ 🕹️ ${usedPrefix}odio*
+*┃➤ 🕹️ ${usedPrefix}ship*
+*┃➤ 🕹️ ${usedPrefix}sorteo*
+*┃➤ 🕹️ ${usedPrefix}minovia*
+*┃➤ 🕹️ ${usedPrefix}minovio*
+*┃➤ 🕹️ ${usedPrefix}kchero*
+*┃➤ 🕹️ ${usedPrefix}kchero*
  ╰━━━━━━━━━━━━
 
 
  ╭━〔 🎭 *IMAGENES* 🎭 〕
-*┃⏺️ 🖍️ ${usedPrefix}goku*
-*┃⏺️ 🖍️ ${usedPrefix}vegeta*
-*┃⏺️ 🖍️ ${usedPrefix}lora*
-*┃⏺️ 🖍️ ${usedPrefix}cr7*
-*┃⏺️ 🖍️ ${usedPrefix}spiderman*
-*┃⏺️ 🖍️ ${usedPrefix}batman*
-*┃⏺️ 🖍️ ${usedPrefix}hellokitty*
-*┃⏺️ 🖍️ ${usedPrefix}charmander*
+*┃➤ 🖍️ ${usedPrefix}goku*
+*┃➤ 🖍️ ${usedPrefix}vegeta*
+*┃➤ 🖍️ ${usedPrefix}lora*
+*┃➤ 🖍️ ${usedPrefix}cr7*
+*┃➤ 🖍️ ${usedPrefix}spiderman*
+*┃➤ 🖍️ ${usedPrefix}batman*
+*┃➤ 🖍️ ${usedPrefix}hellokitty*
+*┃➤ 🖍️ ${usedPrefix}charmander*
  ╰━━━━━━━━━━━━
  
 
  ╭━〔 🈴 𝐃𝐄𝐒𝐂𝐀𝐑𝐆𝐀𝐒 🈴 〕
-*┃⏺️ 📥 ${usedPrefix}play*
-*┃⏺️ 📥 ${usedPrefix}play.1*
-*┃⏺️ 📥 ${usedPrefix}play2.2*
-*┃⏺️ 📥 ${usedPrefix}ytv.2*
-*┃⏺️ 📥 ${usedPrefix}yta.2*
-*┃⏺️ 📥 ${usedPrefix}playlist*
-*┃⏺️ 📥 ${usedPrefix}spotify*
-*┃⏺️ 📥 ${usedPrefix}spotifydl*
-*┃⏺️ 📥 ${usedPrefix}tiktok*
-*┃⏺️ 📥 ${usedPrefix}instagram*
-*┃⏺️ 📥 ${usedPrefix}mediafire*
-*┃⏺️ 📥 ${usedPrefix}gdrive*
-*┃⏺️ 📥 ${usedPrefix}twitter*
-*┃⏺️ 📥 ${usedPrefix}yta*
-*┃⏺️ 📥 ${usedPrefix}ytv*
-*┃⏺️ 📥 ${usedPrefix}imagen*
-*┃⏺️ 📥 ${usedPrefix}iaimagen*
-*┃⏺️ 📥 ${usedPrefix}pinteres*
-*┃⏺️ 📥 ${usedPrefix}igstory*
+*┃➤ 📥 ${usedPrefix}play*
+*┃➤ 📥 ${usedPrefix}play.1*
+*┃➤ 📥 ${usedPrefix}play2.2*
+*┃➤ 📥 ${usedPrefix}ytv.2*
+*┃➤ 📥 ${usedPrefix}yta.2*
+*┃➤ 📥 ${usedPrefix}playlist*
+*┃➤ 📥 ${usedPrefix}spotify*
+*┃➤ 📥 ${usedPrefix}spotifydl*
+*┃➤ 📥 ${usedPrefix}tiktok*
+*┃➤ 📥 ${usedPrefix}instagram*
+*┃➤ 📥 ${usedPrefix}mediafire*
+*┃➤ 📥 ${usedPrefix}gdrive*
+*┃➤ 📥 ${usedPrefix}twitter*
+*┃➤ 📥 ${usedPrefix}yta*
+*┃➤ 📥 ${usedPrefix}ytv*
+*┃➤ 📥 ${usedPrefix}imagen*
+*┃➤ 📥 ${usedPrefix}iaimagen*
+*┃➤ 📥 ${usedPrefix}pinteres*
+*┃➤ 📥 ${usedPrefix}igstory*
  ╰━━━━━━━━━━━━
 
 
 *╭━〔 👀 𝐂𝐎𝐍𝐕𝐄𝐑𝐓𝐈𝐃𝐎𝐑𝐄𝐒 👀 〕*
-*┃⏺️ 📍 ${usedPrefix}toimg*
-*┃⏺️ 📍 ${usedPrefix}tomp3*
-*┃⏺️ 📍 ${usedPrefix}toptt*
-*┃⏺️ 📍 ${usedPrefix}tovideo*
-*┃⏺️ 📍 ${usedPrefix}tts*
+*┃➤ 📍 ${usedPrefix}toimg*
+*┃➤ 📍 ${usedPrefix}tomp3*
+*┃➤ 📍 ${usedPrefix}toptt*
+*┃➤ 📍 ${usedPrefix}tovideo*
+*┃➤ 📍 ${usedPrefix}tts*
  ╰━━━━━━━━━━━━
 
 *╭━〔 ♓ 𝐄𝐅𝐄𝐂𝐓𝐎𝐒 𝐘 𝐋𝐎𝐆𝐎𝐒 ♓ 〕*
-*┃⏺️ ❄️ ${usedPrefix}mensajefalso*
-*┃⏺️ ❄️ ${usedPrefix}logos*
-*┃⏺️ ❄️ ${usedPrefix}logocorazon*
-*┃⏺️ ❄️ ${usedPrefix}ytcomment*
-*┃⏺️ ❄️ ${usedPrefix}hornycard*
-*┃⏺️ ❄️ ${usedPrefix}itssostupid*
-*┃⏺️ ❄️ ${usedPrefix}pixelar*
+*┃➤ ❄️ ${usedPrefix}mensajefalso*
+*┃➤ ❄️ ${usedPrefix}logos*
+*┃➤ ❄️ ${usedPrefix}logocorazon*
+*┃➤ ❄️ ${usedPrefix}ytcomment*
+*┃➤ ❄️ ${usedPrefix}hornycard*
+*┃➤ ❄️ ${usedPrefix}itssostupid*
+*┃➤ ❄️ ${usedPrefix}pixelar*
  ╰━━━━━━━━━━━━
 
 *╭━〔 💌 𝐅𝐑𝐀𝐒𝐄𝐒 𝐘 𝐓𝐄𝐗𝐓𝐎𝐒 💌〕*
-*┃⏺️ 🥀 ${usedPrefix}piropo*
-*┃⏺️ 🥀 ${usedPrefix}consejo*
-*┃⏺️ 🥀 ${usedPrefix}fraseromantica*
+*┃➤ 🥀 ${usedPrefix}piropo*
+*┃➤ 🥀 ${usedPrefix}consejo*
+*┃➤ 🥀 ${usedPrefix}fraseromantica*
  ╰━━━━━━━━━━━━
 
  ╭━〔 ✨ 𝐁𝐔𝐒𝐂𝐀𝐃𝐎𝐑𝐄𝐒 ✨  〕*
-*┃⏺️ 🔍 ${usedPrefix}xnxxsearch*
-*┃⏺️ 🔍 ${usedPrefix}google*
-*┃⏺️ 🔍 ${usedPrefix}letra*
-*┃⏺️ 🔍 ${usedPrefix}wikipedia*
-*┃⏺️ 🔍 ${usedPrefix}ytsearch*
-*┃⏺️ 🔍 ${usedPrefix}playstore*
-*┃⏺️ 🔍 ${usedPrefix}mercadolibre*
-*┃⏺️ 🔍 ${usedPrefix}pornhubsearch*
+*┃➤ 🔍 ${usedPrefix}xnxxsearch*
+*┃➤ 🔍 ${usedPrefix}google*
+*┃➤ 🔍 ${usedPrefix}letra*
+*┃➤ 🔍 ${usedPrefix}wikipedia*
+*┃➤ 🔍 ${usedPrefix}ytsearch*
+*┃➤ 🔍 ${usedPrefix}playstore*
+*┃➤ 🔍 ${usedPrefix}mercadolibre*
+*┃➤ 🔍 ${usedPrefix}pornhubsearch*
  ╰━━━━━━━━━━━━
 
  ╭━〔 🌝 𝐇𝐄𝐑𝐑𝐀𝐌𝐈𝐄𝐍𝐓𝐀𝐒 🌝 〕
-*┃⏺️ 🍃 ${usedPrefix}clima*
-*┃⏺️ 🍃 ${usedPrefix}afk*
-*┃⏺️ 🍃 ${usedPrefix}ocr*
-*┃⏺️ 🍃 ${usedPrefix}calc*
-*┃⏺️ 🍃 ${usedPrefix}del*
-*┃⏺️ 🍃 ${usedPrefix}whatmusic*
-*┃⏺️ 🍃 ${usedPrefix}qrcode*
-*┃⏺️ 🍃 ${usedPrefix}traducir*
+*┃➤ 🍃 ${usedPrefix}clima*
+*┃➤ 🍃 ${usedPrefix}afk*
+*┃➤ 🍃 ${usedPrefix}ocr*
+*┃➤ 🍃 ${usedPrefix}calc*
+*┃➤ 🍃 ${usedPrefix}del*
+*┃➤ 🍃 ${usedPrefix}whatmusic*
+*┃➤ 🍃 ${usedPrefix}qrcode*
+*┃➤ 🍃 ${usedPrefix}traducir*
  ╰━━━━━━━━━━━━
 
 *╭━〔 💎 𝐄𝐂𝐎𝐍𝐎𝐌𝐈𝐀𝐒 💎 〕*
-*┃⏺️ 🍁 ${usedPrefix}verificar*
-*┃⏺️ 🍁 ${usedPrefix}unreg*
-*┃⏺️ 🍁 ${usedPrefix}minar*
-*┃⏺️ 🍁 ${usedPrefix}buy*
-*┃⏺️ 🍁 ${usedPrefix}work*
-*┃⏺️ 🍁 ${usedPrefix}mendigar*
-*┃⏺️ 🍁 ${usedPrefix}transfer*
+*┃➤ 🍁 ${usedPrefix}verificar*
+*┃➤ 🍁 ${usedPrefix}unreg*
+*┃➤ 🍁 ${usedPrefix}minar*
+*┃➤ 🍁 ${usedPrefix}buy*
+*┃➤ 🍁 ${usedPrefix}work*
+*┃➤ 🍁 ${usedPrefix}mendigar*
+*┃➤ 🍁 ${usedPrefix}transfer*
  ╰━━━━━━━━━━━━
  *╔══ ≪ FUNCIONES OWNERS ≫ ══╗*
 *║* 💎➺ _${usedPrefix}join *enlace*_
